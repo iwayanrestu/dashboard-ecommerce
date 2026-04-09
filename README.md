@@ -49,11 +49,10 @@ Dashboard ini memiliki beberapa bagian utama:
 
 ## Insight Utama
 
-- Tren penjualan menunjukkan (isi sesuai hasil analisis)
 - Kategori produk tertentu memberikan kontribusi terbesar terhadap revenue
-- Metode pembayaran yang paling banyak digunakan adalah (isi sesuai data)
+- Metode pembayaran yang paling banyak digunakan adalah credit card
 - Pelanggan terkonsentrasi di wilayah tertentu
-- Sebagian besar pengiriman berada dalam kategori (tepat waktu / terlambat)
+- Sebagian besar pengiriman berada dalam kategori tepat waktu
 
 ---
 
